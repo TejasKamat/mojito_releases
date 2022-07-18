@@ -1,6 +1,6 @@
 # mojito_releases
 
-### Maintained for REDMI NOTE 10 aka mojito
+### Maintained for REDMI NOTE 10 aka mojito by
 
 [Tejas Kamat](https://github.com/TejasKamat)
 
