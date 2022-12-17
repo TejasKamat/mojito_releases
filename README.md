@@ -31,3 +31,5 @@
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/Tejaskamat/mojito_releases/rice-7.5/total.svg)](https://github.com/TejasKamat/mojito_releases/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/Tejaskamat/mojito_releases/v7.3-16112022/total.svg)](https://github.com/TejasKamat/mojito_releases/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/Tejaskamat/mojito_releases/v7.4-15122022/total.svg)](https://github.com/TejasKamat/mojito_releases/releases)
