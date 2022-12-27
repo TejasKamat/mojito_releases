@@ -33,3 +33,5 @@
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/Tejaskamat/mojito_releases/v7.3-16112022/total.svg)](https://github.com/TejasKamat/mojito_releases/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/Tejaskamat/mojito_releases/v7.4-14122022/total.svg)](https://github.com/TejasKamat/mojito_releases/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/Tejaskamat/mojito_releases/v7.4-27122022/total.svg)](https://github.com/TejasKamat/mojito_releases/releases)
